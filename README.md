@@ -11,3 +11,7 @@
 - Recurso de aprendizaje
 
 ![image](https://github.com/user-attachments/assets/f863ce37-d659-4002-9e23-8e69f8d06748)
+
+**PDF**
+
+**VIDEO**
