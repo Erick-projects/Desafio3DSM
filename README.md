@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/f863ce37-d659-4002-9e23-8e69f8d06748)
 
 **PDF**
-[DESAFIO-03-DSM.pdf]()
+[Desafio 3 DSM.pdf](https://github.com/user-attachments/files/17322260/Desafio.3.DSM.pdf)
 
 **VIDEO**
 [EXPLICACION DE LA APP](https://drive.google.com/drive/folders/1NHBdmjS9KWmNrVTZm6taPaDVCABOzYuG?usp=sharing)
